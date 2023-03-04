@@ -10,7 +10,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Account email. The information that I request is retained on your device and is not collected by me in any way
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Account email. We may collect and store your email address to provide you with information about our products, services, and promotions. We may also use your email address to communicate about your account, such as password resets or essential updates.
+
+Additionally, when you use our AI Interpretation service, we may collect and store the questions and answers you submit to improve our services and develop new features. Please note that we may store this information in a cloud database to manage our customer database and improve our services.
+
+Rest assured that we take appropriate measures to protect your personal information and will not share or sell your information to third parties without your consent, except as required by law.
+
+By using our AI Interpretation service and providing us with your email address, you consent to collecting, storing, and using your information as described in this policy. If you have any questions or concerns about our use of your information, please get in touch with us at kvazios@gmail.com
 
 The app does use third party services that may collect information used to identify you.
 
