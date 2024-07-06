@@ -9,11 +9,11 @@ The Application acquires the information you supply when you download and regist
 
 The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-##Automatically Collected Information
+## Automatically Collected Information
 
 In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
-##Does the Application collect precise real time location information of the device?
+## Does the Application collect precise real time location information of the device?
 
 This Application does not gather precise information about the location of your mobile device.
 
@@ -23,7 +23,7 @@ This Application collects your device's location, which helps the Service Provid
 *   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
 *   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-##Do third parties see and/or have access to information obtained by the Application?
+## Do third parties see and/or have access to information obtained by the Application?
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
