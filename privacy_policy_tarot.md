@@ -2,8 +2,8 @@
 
 This privacy policy is applicable to the Tarot Divination app (hereinafter referred to as "Application") for mobile devices, which was developed by Yevhen Kniaziuk (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
 
-## What information does the Application obtain and how is it used?
-##User Provided Information**
+# What information does the Application obtain and how is it used?
+## User Provided Information
 
 The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
 
