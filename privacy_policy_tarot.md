@@ -5,9 +5,13 @@ This privacy policy is applicable to the Tarot Divination app (hereinafter refer
 # What information does the Application obtain and how is it used?
 ## User Provided Information
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+The Application acquires the information you supply when you download and register. Registration is not mandatory, but creating an account is required to use cloud-based features like saving readings across devices.
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+When you register, we collect your email address and authentication credentials, which are processed securely via Firebase Authentication. We also collect the AI Readings you generate (excluding AI Chat interactions) and store them securely in Google Cloud Firestore. You can delete these saved readings at any time or disable the cloud-saving feature entirely within your account settings.
+
+If you use the "Report" feature in the AI Chat, we will collect your email address and the specific chat log to provide support.
+
+The Service Provider may also use the information you provide to contact you from time to time with important information, required notices, and marketing promotions.
 
 ## Automatically Collected Information
 
@@ -32,8 +36,9 @@ Please note that the Application utilizes third-party services that have their o
 *   Google Play Services (https://www.google.com/policies/privacy/)
 *   AdMob (https://support.google.com/admob/answer/6128543?hl=en)
 *   Google Analytics for Firebase (https://firebase.google.com/support/privacy)
-*   Firebase Crashlytics (https://firebase.google.com/support/privacy/)
+*   Firebase Crashlytics, Authentication & Cloud Firestore (https://firebase.google.com/support/privacy/)
 *   Unity (https://unity3d.com/legal/privacy-policy)
+*   
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -47,7 +52,9 @@ You can halt all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy, Managing Your Information
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at kvazios@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+The Service Provider will retain your account data and saved cloud readings in Firebase until you choose to delete your account. You can request the deletion of your account and all associated cloud data at any time directly through the Application's account screen, or by contacting us at runecraftingwork@gmail.com. We will process your request within a reasonable timeframe.
+
+The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. Please note that some User Provided Data may be required for certain features of the Application to function properly.
 
 ## Children
 
