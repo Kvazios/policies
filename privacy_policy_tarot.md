@@ -29,7 +29,13 @@ This Application collects your device's location, which helps the Service Provid
 
 ## Do third parties see and/or have access to information obtained by the Application?
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Yes. We transmit both anonymized data and, if you create an account, personally identifiable information to external services to operate the Application. We may share your information with third parties in the following ways:
+
+- Authentication & Cloud Storage: If you create an account, your email address, authentication tokens, and saved user-generated content (such as AI readings, if enabled) are securely transmitted to and stored by Google Firebase (Firebase Authentication and Cloud Firestore).
+
+- AI Processing: Your text inputs and selected cards are transmitted to third-party artificial intelligence providers (OpenAI and Google Gemini) strictly to generate the requested readings and responses.
+
+- Analytics & Advertising: Aggregated, anonymized data (such as usage statistics, device information, and crash reports) is periodically transmitted to services like Google Analytics, Firebase Crashlytics, and AdMob to help us improve the Application and serve relevant ads.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
@@ -38,7 +44,8 @@ Please note that the Application utilizes third-party services that have their o
 *   Google Analytics for Firebase (https://firebase.google.com/support/privacy)
 *   Firebase Crashlytics, Authentication & Cloud Firestore (https://firebase.google.com/support/privacy/)
 *   Unity (https://unity3d.com/legal/privacy-policy)
-*   
+*   OpenAI (https://openai.com/policies/privacy-policy)
+*   Google (Gemini API) (https://policies.google.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
