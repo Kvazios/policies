@@ -5,13 +5,23 @@ This privacy policy is applicable to the Tarot Divination app (hereinafter refer
 # What information does the Application obtain and how is it used?
 ## User Provided Information
 
-The Application acquires the information you supply when you download and register. Registration is not mandatory, but creating an account is required to use cloud-based features like saving readings across devices.
+The Application may be used anonymously or with an account, depending on the features you choose to use.
 
-When you register, we collect your email address and authentication credentials, which are processed securely via Firebase Authentication. We also collect the AI Readings you generate (excluding AI Chat interactions) and store them securely in Google Cloud Firestore. You can delete these saved readings at any time or disable the cloud-saving feature entirely within your account settings.
+Registration is not mandatory for all features. However, some features may require an account or server-side processing to work correctly, including saving data across devices, restoring access, managing AI coins, processing purchases, subscriptions, and using some AI-powered features.
 
-If you use the "Report" feature in the AI Chat, we will collect your email address and the specific chat log to provide support.
+If you create an account, we may collect your email address, authentication-related data, and account identifiers. Authentication and account data may be processed through our own backend infrastructure and/or third-party services such as Google Firebase, depending on the current technical setup of the Application.
 
-The Service Provider may also use the information you provide to contact you from time to time with important information, required notices, and marketing promotions.
+If you use the Application anonymously, we may create a random anonymous app identifier. This identifier is used to provide app features, manage AI coins, prevent abuse, and keep the Application functional. This identifier does not directly identify you by name or email address.
+
+We may collect and store data needed to operate the Application, including AI readings, generated meanings, coin balance, report data, and other app data connected to your account or anonymous app identifier.
+
+Some data may be stored on servers operated by us and/or by third-party cloud service providers such as Google Firebase, where applicable. We retain this data only for as long as needed to operate the Application, provide user features, comply with legal obligations, prevent abuse, or resolve technical and support issues.
+
+You can delete saved readings where this option is available in the Application. You may also request deletion of your account and associated data by contacting us.
+
+If you use the "Report" feature to flag an AI response, we may collect the reported message, related AI response, technical context, and available identifiers such as your email address if you have an account, or your anonymous app identifier if you use the Application anonymously. This data is used to review the report, provide support, improve safety, and prevent abuse.
+
+The Service Provider may also use the information you provide to contact you from time to time with important information, required notices, and service-related messages. Marketing messages may be sent only where permitted by applicable law.
 
 ## Automatically Collected Information
 
@@ -59,9 +69,15 @@ You can halt all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy, Managing Your Information
 
-The Service Provider will retain your account data and saved cloud readings in Firebase until you choose to delete your account. You can request the deletion of your account and all associated cloud data at any time directly through the Application's account screen, or by contacting us at runecraftingwork@gmail.com. We will process your request within a reasonable timeframe.
+The Service Provider retains account data, anonymous app identifiers, saved readings, generated meanings, coin balances, reports, and related app data for as long as needed to provide the Application, maintain user access, comply with legal obligations, prevent abuse, resolve disputes, and operate paid features.
 
-The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. Please note that some User Provided Data may be required for certain features of the Application to function properly.
+If you create an account, you can request deletion of your account and associated data directly through the Application where available, or by contacting us at runecraftingwork@gmail.com.
+
+If you use the Application anonymously, some data may be linked only to a random anonymous app identifier stored by the Application. Anonymous data may be harder or impossible to restore, identify, or delete if you delete the Application, change devices, clear local app data, or do not provide enough information for us to locate the data.
+
+Some data may be stored on servers operated by us and/or by third-party cloud service providers such as Google Firebase, where applicable. We retain this data only for as long as needed to operate the Application, provide user features, comply with legal obligations, prevent abuse, or resolve technical and support issues.
+
+Automatically collected information may be retained for up to 24 months and thereafter may be stored in aggregated or anonymized form.
 
 ## Children
 
