@@ -11,21 +11,20 @@ The Application collects information when you download and use it. This informat
 *   The time spent on the Application
 *   The operating system you use on your mobile device
 
-The Application does not gather precise information about the location of your mobile device.
+When you use AI-powered features such as the Formula Generator, the Application processes the text request you submit in order to generate a symbolic runic formula. This request may include any information you choose to type into the feature. The Service Provider does not intentionally store Formula Generator requests or generated results after the response is generated, except where temporary logs are necessary for security, debugging, abuse prevention, or legal compliance.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+The Application does not gather precise information about the location of your mobile device. 
+The Application may process approximate location information, such as country or region inferred from your IP address. This may be used for analytics, service improvement, fraud or abuse prevention, regional settings, and third-party services that help maintain and improve the Application.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider requests will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+The Application may use backend services and third-party AI service providers to process Formula Generator requests and generate responses. When you submit a request to the Formula Generator, the text you provide may be transmitted through the Service Provider's backend to third-party AI service providers for processing.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
@@ -53,7 +52,7 @@ You can stop all collection of information by the Application easily by uninstal
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact Service Provider at kvazios@gmail.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact Service Provider at kvazios@gmail.com, and they will respond in a reasonable time.
 
 **Children**
 
@@ -69,7 +68,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-07-30
+This privacy policy is effective as of 2026-06-25
 
 **Your Consent**
 
